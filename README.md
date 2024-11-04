@@ -123,7 +123,7 @@ For example, using **This Week in Music** with a date range of `start_datetime` 
 
 
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/09NlA0BVdE7Y0vfa4jpw1l?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+src="https://open.spotify.com/embed/playlist/09NlA0BVdE7Y0vfa4jpw1l?utm_source=generator" 
 
 Enjoy exploring the music scene around you with **This Week in Music**! 🎸🎤🎻
 
