@@ -121,6 +121,10 @@ It will generate a Spotify playlist featuring top tracks by artists performing t
 
 For example, using **This Week in Music** with a date range of `start_datetime` set to the Monday and `end_datetime` to the following Sunday, the interface connects to both the Spotify and Ticketmaster APIs to identify artists performing in that week. Suppose there are concerts by artists like Glass Animals, ABBA, and some local bands performing at nearby venues. The interface will retrieve music by these artists from Spotify and generate a curated playlist featuring their top tracks. This playlist not only provides users with a tailored listening experience focused on upcoming live music events but also helps them discover and explore artists they can see live in their area that week. Through this example, **This Week in Music** showcases its unique ability to blend event discovery with personalized music streaming into a seamless, real-time experience.
 
+![Spotify Free 04_11_2024 17_56_24](C:\Users\Yawen\CC_Classes\Spotify_API\Spotify Free 04_11_2024 17_56_24.png)
+
+
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/09NlA0BVdE7Y0vfa4jpw1l?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Enjoy exploring the music scene around you with **This Week in Music**! 🎸🎤🎻
