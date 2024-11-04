@@ -6,17 +6,17 @@
 
 ## Table of Contents
 
-1. [Overview](#1.Overview)
+1. [Overview](#Overview)
 
-2. [Key Features](#2.Key Features)
+2. [Key Features](#Key Features)
 
-3. [Installation](#3.Installation)
+3. [Installation](#Installation)
 
-4. [Usage](#4.usage)
+4. [Usage](#usage)
 
-5. [Listen to the Playlist](#5.Listen to the Playlist)
+5. [Listen to the Playlist](#Listen to the Playlist)
 
-6. [Example](#6.Example)
+6. [Example](#Example)
 
    
 
